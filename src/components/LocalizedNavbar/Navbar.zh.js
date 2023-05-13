@@ -44,6 +44,15 @@ const zhNavbar = {
       position: "left",
     },
     { type: "localeDropdown", position: "right" },
+     {
+      href: "https://github.com/rockbenben/ChatGPT-Shortcut",
+      position: "right",
+      className: "header-github-link",
+    },
+    {
+      href: "https://discord.gg/PZTQfJ4GjX",
+      position: "right",
+      className: "header-discord-link",
     },
   ],
 };
