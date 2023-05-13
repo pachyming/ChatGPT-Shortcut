@@ -7,8 +7,8 @@ const zhNavbar = {
   },
   items: [
     {
-      to: "https://newzone.top/posts/2023-02-27-chatgpt_shortcuts.html",
-      label: "ChatGPT Shortcut 原理说明",
+      to: "https://pm.chatspace.top",
+      label: "ChatGPT Shortcut 咒语库",
       position: "left",
     },
     {
@@ -21,16 +21,16 @@ const zhNavbar = {
           href: "https://chrome.google.com/webstore/detail/chatgpt-shortcut/blcgeoojgdpodnmnhfpohphdhfncblnj",
         },
         {
-          label: 'IMGPrompt',
-          href: 'https://prompt.newzone.top/',
+          label: '个人博客',
+          href: 'https://zxh.chatspace.top/',
         },
         {
-          label: '文字处理',
-          href: 'https://tools.newzone.top/',
+          label: '小商店',
+          href: 'https://shoping.dzbz555.top/',
         },
         {
-          label: '工具收藏',
-          href: 'https://nav.newzone.top',
+          label: '网盘收藏',
+          href: 'https://wp.chatspace.top/',
         },
         {
           label: 'Find on Product Hunt',
@@ -39,8 +39,8 @@ const zhNavbar = {
       ],
     },
     {
-      to: "https://xq7pd3qu17.feishu.cn/share/base/form/shrcnK7oaSPaAcj1YAHfy4jo0Jh",
-      label: "反馈/添加提示词",
+      to: "https://www.chatdoc.link/",
+      label: "在线ChatGPT聊天",
       position: "left",
     },
     { type: "localeDropdown", position: "right" },
